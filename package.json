@@ -1,0 +1,12 @@
+{
+    "name": "ejercicio02",
+    "version": "1.0.0",
+    "description": "En el servidor anterior, al acceder a la ruta /creartabla que cree en el servidor una nueva carpeta llamada tablas.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon ./index.js"
+    },
+    "author": "Alvaro Carballo",
+    "license": "ISC"
+}
